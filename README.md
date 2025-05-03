@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/melaodoidao-datagov-mcp-server-badge.png)](https://mseep.ai/app/melaodoidao-datagov-mcp-server)
+
 # Data.gov MCP Server
 
 An MCP server for accessing data from Data.gov, providing tools and resources for interacting with government datasets.
